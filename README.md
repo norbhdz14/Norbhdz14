@@ -1,16 +1,27 @@
-## Hi there 👋
+# ¡Hola! Soy Norberto Hernández 👋 (@norbhdz14)
 
-<!--
-**norbhdz14/Norbhdz14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Ingeniero en Sistemas Computacionales | Data & Industrial IT Specialist**  
+📍 México
 
-Here are some ideas to get you started:
+Ingeniero con más de 11 años de experiencia optimizando procesos industriales, infraestructura de red y análisis de datos en entornos de manufactura continua. Especializado en la digitalización de procesos operativos, auditorías de ciberseguridad, gestión de bases de datos SQL y desarrollo de automatizaciones.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Core Competencies & Tech Stack
+
+- **Lenguajes & Bases de Datos:** Python, Java (POO), SQL (MySQL)
+- **Especialidad Industrial:** Análisis de datos operativos (KPIs / OEE), digitalización de procesos, infraestructura de red (LAN/Fibra Óptica) y seguridad TI
+- **Herramientas:** Git, Excel Avanzado (Modelado de datos), Inteligencia Artificial aplicada
+
+---
+
+### 📌 Repositorios & Proyectos (proximos por subur)
+
+- 🐍 **[AnalizadorGastos](https://github.com/norbhdz14/AnalizadorGastos):** Herramienta CLI desarrollada en Python para el procesamiento, categorización y análisis de registros financieros locales.
+
+---
+
+📫 **Contacto & Redes:**  
+- **LinkedIn:** [linkedin.com/in/norbhdz](https://linkedin.com/in/norbhdz)  
+
+*Cédula Profesional:* 15061201
