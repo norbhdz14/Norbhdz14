@@ -22,6 +22,18 @@ Ingeniero con más de 11 años de experiencia optimizando procesos industriales,
 ---
 
 📫 **Contacto & Redes:**  
-- **LinkedIn:** [linkedin.com/in/norbhdz](https://linkedin.com/in/norbhdz)  
+- **LinkedIn:** https://linkedin.com/in/norbhdz
+
+## ☕ Apoya el proyecto
+
+Si mis aplicacióes te han sido de utilidad y deseas apoyar el desarrollo de software libre, puedes invitarme un café. ¡Cualquier aporte ayuda a seguir manteniendo el proyecto activo!
+
+Invítame un café
+https://ko-fi.com/cipherlosaltos
+
+O directamente en mi paypal
+https://paypal.me/norbhdz
+
+  
 
 *Cédula Profesional:* 15061201
