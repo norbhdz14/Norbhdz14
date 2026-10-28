@@ -29,7 +29,7 @@ Ingeniero con más de 11 años de experiencia optimizando procesos industriales,
 Si mis aplicacióes te han sido de utilidad y deseas apoyar el desarrollo de software libre, puedes invitarme un café. ¡Cualquier aporte ayuda a seguir manteniendo el proyecto activo!
 
 Invítame un café
-https://ko-fi.com/cipherlosaltos
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T4T629IUEU)
 
 O directamente en mi paypal
 https://paypal.me/norbhdz
